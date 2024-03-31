@@ -1,0 +1,3 @@
+javac driver/ShapeCalculatorDriver.java
+
+java driver.ShapeCalculatorDriver
