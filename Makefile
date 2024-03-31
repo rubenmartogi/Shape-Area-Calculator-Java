@@ -1,3 +1,3 @@
-javac driver/ShapeCalculatorDriver.java
+javac -d bin driver/ShapeCalculatorDriver.java
 
-java driver.ShapeCalculatorDriver
+java -cp bin driver.ShapeCalculatorDriver
