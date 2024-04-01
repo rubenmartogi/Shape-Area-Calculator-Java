@@ -10,7 +10,7 @@ import model.Triangle;
 public class ShapeCalculatorDriver {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+ 
         System.out.println("Pilih operasi yang ingin dilakukan:");
         System.out.println("0: Hitung Luas");
         System.out.println("1: Hitung Keliling");
